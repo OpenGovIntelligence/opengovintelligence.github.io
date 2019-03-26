@@ -1,6 +1,6 @@
 # Publications
 
-Quicklinks: [journals](#journals) | [conference papers](#papers) | [Book chapters](#chapters)
+Quicklinks: [Journals](#journals) | [Conference papers](#papers) | [Book chapters](#chapters)
 
 <h2 id="journals">Journal Publications</h2>
 
