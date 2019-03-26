@@ -12,7 +12,7 @@ const Pilot = ({ data }) => (
     <Box>
       <h1>{data.markdownRemark.frontmatter.title}</h1>
       <h2>{data.markdownRemark.frontmatter.blurb}</h2>
-      <div
+      <div className="markdown"
         dangerouslySetInnerHTML={{
           __html: data.markdownRemark.html,
         }}

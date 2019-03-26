@@ -294,3 +294,17 @@ footer {
     }
   }
 }
+
+.markdown {
+  ul {
+    padding-left: 1rem;
+
+    li:before {
+      color: #e44690;
+      content: "•";
+      display: inline-block;
+      width: 1em;
+      margin-left: -1em
+    }
+  }
+}
