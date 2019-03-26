@@ -14,4 +14,4 @@ The outputs from the pilot were produced through an iterative co-creation proces
 
 You can try the applications and learn more about the pilot from our dedicated [project page](http://www.trafforddatalab.io/opengovintelligence/) and find further information in our [Medium article](https://medium.com/@traffordDataLab/improving-the-discoverability-of-worklessness-data-b91bf28e6fd6).
 
-![Trafford pilot screenshots](../../images/pilots/trafford_pilot_apps_screenshot_cube.png)
+![Trafford pilot screenshots](/trafford_pilot_apps_screenshot_cube.png)

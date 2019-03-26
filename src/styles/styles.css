@@ -296,6 +296,9 @@ footer {
 }
 
 .markdown {
+  img {
+    width: 100%;
+  }
   ul {
     padding-left: 1rem;
 
