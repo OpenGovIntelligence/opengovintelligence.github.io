@@ -118,7 +118,7 @@ _M. Toots, K. McBride, T. Kalvet, R. Krimmer (2017). 2017 Conference for E-Democ
 
 > Governments are creating and maintaining increasing amounts of data, and, recently, releasing data as open government data. As the amount of data available increases, so too should the exploitation of this data. However, this potential currently seems to be unexploited. Since exploiting open government data has the potential to create new public value, the absence of this exploitation is something that should be explored. It is therefore timely to investigate how the potential of existing datasets could be unleashed to provide services that create public value. For this purpose, we conducted a literature study and an empirical survey of the relevant drivers, barriers and gaps. Based on the results, we propose a framework that addresses some of the key challenges and puts forward an agile co-production process to support effective data-driven service creation. The proposed framework incorporates elements from agile development, lean startups, co-creation, and open government data literature and aims to increase our understanding on how open government data may be able to drive public service co-creation.
 
-_M. Toots, K. McBride, T. Kalvet, R. Krimmer, E. Tambouris, E. Panapoulou, E. Kalampokis, K. Tarabanis (2017). A Framework for Data-Driven Public Service Co-production. International Conference on Electronic Government.. [https://doi.org/10.1007/978-3-319-64677-0\_22](https://doi.org/10.1007/978-3-319-64677-0_22)_
+*M. Toots, K. McBride, T. Kalvet, R. Krimmer, E. Tambouris, E. Panapoulou, E. Kalampokis, K. Tarabanis (2017). A Framework for Data-Driven Public Service Co-production. International Conference on Electronic Government. [https://doi.org/10.1007/978-3-319-64677-0_22](https://doi.org/10.1007/978-3-319-64677-0_22)*
 
 ### Facilitating the exploitation of Linked Open Statistical Data: JSON-QB API requirements and design criteria
 
@@ -142,7 +142,7 @@ _A. Zuiderwijk, R. Matheus (2017). Collaboratively Analysing Open Research Data 
 
 > A large part of open data concerns statistics, such as demographic, economic and social data (henceforth referred to as Open Statistical Data, OSD). In this paper we start by introducing open data fragmentation as a major obstacle for OSD reuse. We proceed by outlining data cube as a logical model for structuring OSD. We then introduce Open Statistics as a new area aiming to systematically study OSD. Open Statistics reuse and extends methods from diverse fields like Open Data, Statistics, Data Warehouses and the Semantic Web. In this paper, we focus on benefits and challenges of Open Statistics. The results suggest that Open Statistics provide benefits not present in any of these fields alone. We conclude that in certain cases OSD can realise the potential of open data.
 
-_E. Kalampokis, E. Tambouris, A. Karamanou, K. Tarabanis (2016). EGOV2016, LNCS 9820, pp.31-43. [https://doi.org/10.1007/978-3-319-44421-5\_3](https://doi.org/10.1007/978-3-319-44421-5_3)_
+*E. Kalampokis, E. Tambouris, A. Karamanou, K. Tarabanis (2016). EGOV2016, LNCS 9820, pp.31-43. [https://doi.org/10.1007/978-3-319-44421-5_3](https://doi.org/10.1007/978-3-319-44421-5_3)*
 
 ### Linked data cubes: Research results so far
 
@@ -172,7 +172,7 @@ _R. Matheus & Μ. Janssen (2016). 9th international conference on theory and pra
 
 > Estonia has acquired the reputation of a successful e-voting country, and perhaps justifiably so. It was the first country in the world to enable remote online voting in nationwide elections in 2005 and the share of e-voters has been on a rise ever since, now reaching one-third of all voters. Against this backdrop of a seemingly flourishing e-democracy, we set out to ask if the country’s success in e-voting also implies its success in e-democracy in a broader sense. In a qualitative case study, we compare Estonia’s experience in e-voting with the implementation and outcomes of three e-participation projects to demonstrate that considerable discrepancies exist between the take-up and perceived success of e-voting vis-à-vis other e-democracy instruments. In light of these findings the paper further discusses the factors that are likely to account for these differences and highlights the need to look beyond the success of online voting for a holistic evaluation of the state of e-democracy in a given country.
 
-_M. Toots, T. Kalvet, R. Krimmer. (2016). Success in eVoting – Success in eDemocracy? The Estonian Paradox. 15th IFIP Electronic Government (EGOV) and 8th Electronic Participation (ePart) Conference. Guimarães, Portugal. [https://doi.org/10.1007/978-3-319-45074-2\_5](https://doi.org/10.1007/978-3-319-45074-2_5)_
+*M. Toots, T. Kalvet, R. Krimmer. (2016). Success in eVoting – Success in eDemocracy? The Estonian Paradox. 15th IFIP Electronic Government (EGOV) and 8th Electronic Participation (ePart) Conference. Guimarães, Portugal. [https://doi.org/10.1007/978-3-319-45074-2_5](https://doi.org/10.1007/978-3-319-45074-2_5)*
 
 <h2 id="chapters">Book chapters</h2>
 
