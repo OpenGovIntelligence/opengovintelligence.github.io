@@ -33,6 +33,7 @@ This pilot faced a number of challenges, leading to some useful lessons learned:
 
 * despite the challenges, the work confirmed that the Linked Data approach can help make useful data available to decision makers
 * it was difficult to carry out a research project in the strongly function-oriented structure and culture of the ministry
-* the responsibility for the topics addressed by the project were divided across several departments, leading to managerial obstacles to action
+* contextual stability plays a crucial role in the successful implementation of research projects
+* the responsibility for the topics addressed by the project were divided across several different Government Agencies, leading to managerial obstacles to action
 * there is no strong culture of open data in the government, or at least that data is not yet recognised as a core aspect of transparency
  
