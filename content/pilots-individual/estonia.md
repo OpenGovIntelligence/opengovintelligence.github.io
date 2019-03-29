@@ -17,3 +17,11 @@ The Estonian Real Estate Pilot led to the following impacts:
 * Helped train and educate students, government officials, and the public about the importance of Open Government Data
 * Led to the creation of a new public service design process being taught to public sector officials in Estonia
 
+## Lessons learned
+Some challenges were faced during the pilot leading to useful lessons learned:
+
+* financial motivation or availability of funding does not necessarily lead to higher levels or willingness to participate in co-creation
+* hence co-creation seems to require a high level of internal pressure or willingness by all parties in order to occur
+* a shift in the mindset from public service providers needs to occur, where the citizen moves from being viewed as a customer to being viewed as a collaborator
+* Open Government Data can indeed allow for any stakeholder to help drive and lead the co-creation of new services
+* applying the approach described in the OpenGovIntelligence framework did indeed help drive higher levels of co-creation and encourage the development of a more user centric service.

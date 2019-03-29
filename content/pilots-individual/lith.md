@@ -11,3 +11,11 @@ Therefore, the pilot platform has been designed as a one-stop, easy-to-use, mark
 The application was built on top of available datasets about demographics, economics, investment, earnings. A total of nine datasets were cleansed and enriched and then converted to RDF format for the purposes of the pilot.
 
 The dashboard is available at: http://vmogi03.deri.ie:8081/
+
+## Lessons learned
+
+The challenges experienced with this pilot led to some useful lessons learned:
+
+* whatever approach is taken, the availability of relevant data is pivotal to success. The lack of data or poor quality of data were major obstacles in developing the dashboard
+* multilingual datasets with poor metadata added to the challenge
+* this highlights the importance and potential value of governments making good quality open data available

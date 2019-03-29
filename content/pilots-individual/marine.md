@@ -10,7 +10,7 @@ It led to the design and development of a [dashboard](http://vis.marine.ie/dashb
 
 The dashboard also provides the ability to interact with plots of data collected at the site. The plots are arranged to facilitate users deriving information from the wave buoy data set. Data from the Irish Weather Buoy Network have also been incorporated into the dashboard. A user can select from a range of visualizations to quickly determine information about the site in question (e.g. prevailing wave direction or the combination of most common wave energy period and wave height). This information facilitates wave energy developers determining which devices might be suitable for testing and the energy conversion efficiency of devices deployed at a site.
 
-You can view the dashboard here: [http://vis.marine.ie/dashboards](http://vis.marine.ie/dashboards).
+You can view the dashboard here: [http://vis.marine.ie/dashboards](http://vis.marine.ie/dashboards) and a longer article describing the project on the [OpenGovIntelligence blog](https://medium.com/opengovintelligence/ogi-pilot-data-dashboard-supporting-marine-renewable-device-testing-and-site-assessment-fd8e86ab90e8). 
 
 
 
