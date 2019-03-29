@@ -2,3 +2,4 @@
 dev/*
 
 node_modules/*
+.cache/*
