@@ -2,6 +2,7 @@
 title: Trafford Council
 blurb: Insight to help people into work
 image: "../images/pilots/trafford.png"
+sort: 2
 ---
 
 Within the Greater Manchester Combined Authority, Trafford Council has been leading on the Skills, Employment & Worklessness programme. The Trafford pilot was designed around the need to bring datasets together and visualise them in order to help identify areas of need and inform service delivery.

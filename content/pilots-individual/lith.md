@@ -2,6 +2,7 @@
 title: Lithuanian Government
 blurb: Market research data for business planning
 image: "../images/pilots/lith.png"
+sort: 5
 ---
 
 The major objective of the pilot is to support the business placement decision-making process for entrepreneurs and established businesses as well as to provide an overview of the specific business types distribution and economic activities in the country to decision makers and politicians. In particular, the rich spatial information supplied by the platform provided should enable more informed economical decisions by business owners and better economic policy design by the government.

@@ -13,7 +13,7 @@ const Index = ({ data }) => (
           __html: data.homeJson.content.childMarkdownRemark.html,
         }}
       />
-      <Pilotsnav />
+      <Pilotsnav maxLength={3} />
       <div
         dangerouslySetInnerHTML={{
           __html: data.homeJson.body.childMarkdownRemark.html,

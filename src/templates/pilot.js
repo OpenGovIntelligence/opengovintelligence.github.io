@@ -12,12 +12,13 @@ const Pilot = ({ data }) => (
     <Box>
       <h1>{data.markdownRemark.frontmatter.title}</h1>
       <h2>{data.markdownRemark.frontmatter.blurb}</h2>
-      <div className="markdown"
+      <div
+        className="markdown"
         dangerouslySetInnerHTML={{
           __html: data.markdownRemark.html,
         }}
       />
-      <Pilotsnav />
+      <Pilotsnav maxLength={100} />
     </Box>
   </Layout>
 );

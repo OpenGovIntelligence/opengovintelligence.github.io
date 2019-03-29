@@ -1,7 +1,8 @@
 ---
-title: Greek government
+title: Greek Ministry of Administrative Reconstruction
 blurb: Improving the monitoring and management of government vehicles
 image: "../images/pilots/greek.png"
+sort: 6
 ---
 
 The Greek Pilot aims to improve the internal decision making process in the policy sector of Government Vehicles by means of Linked Open Statistical Data. Improved Decision Making in the domain of Government Vehicles can be broken down to the following dimensions:
@@ -36,4 +37,3 @@ This pilot faced a number of challenges, leading to some useful lessons learned:
 * contextual stability plays a crucial role in the successful implementation of research projects
 * the responsibility for the topics addressed by the project were divided across several different Government Agencies, leading to managerial obstacles to action
 * there is no strong culture of open data in the government, or at least that data is not yet recognised as a core aspect of transparency
- 
